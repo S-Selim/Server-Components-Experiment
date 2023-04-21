@@ -47,9 +47,6 @@ A few people have asked me to turn this into a starter. I think we could do that
 - Validations using Zod
 - Written in TypeScript
 
-**Results and Impact:**
-
-To set up and run the project locally,
 **follow these steps:**
 
 1. ~GitHub authentication (use email)~
