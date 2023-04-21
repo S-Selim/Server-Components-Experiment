@@ -70,3 +70,7 @@ cp .env.example .env.local
 ```sh
 pnpm dev
 ```
+
+## License
+
+Licensed under the [MIT license](https://github.com/S-Selim/Server-Components-Experiment/blob/master/LICENSE.md).
