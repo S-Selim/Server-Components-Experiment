@@ -1,6 +1,7 @@
 # Next.js 13 and Server Components Experiment
 
-**Project Overview:**
+## Project Overview:
+
 This open-source project, created by Shadcn, is one of the most exciting projects I've worked on. It explores the potential of Next.js 13 and server components in building a modern app with advanced features such as authentication, subscriptions, API routes, and static pages. By pushing the boundaries of cutting-edge technologies, this experiment serves as a valuable learning experience and demonstrates the power of these tools in creating innovative applications.
 
 > **Warning**
