@@ -29,29 +29,25 @@ A few people have asked me to turn this into a starter. I think we could do that
 
 ## Note on Performance
 
-> **Warning**
-> This app is using the canary releases for Next.js 13 and React 18. The new router and app dir is still in beta and not production-ready.
-> NextAuth.js, which is used for authentication, is also not fully supported in Next.js 13 and RSC.
-> **Expect some performance hits when testing the dashboard**.
-> If you see something broken, you can ping me [@shadcn](https://twitter.com/shadcn).
+## Key Features:
 
-## Features
-
-- New `/app` dir,
-- Routing, Layouts, Nested Layouts and Layout Groups
-- Data Fetching, Caching and Mutation
+- New /app directory
+- Routing, Layouts, Nested Layouts, and Layout Groups
+- Data Fetching, Caching, and Mutation
 - Loading UI
 - Server and Client Components
 - API Routes and Middlewares
-- Authentication using **NextAuth.js**
-- ORM using **Prisma**
-- Database on **PlanetScale**
-- UI Components built using **Radix UI**
-- Documentation and blog using **MDX** and **Contentlayer**
-- Subscriptions using **Stripe**
-- Styled using **Tailwind CSS**
-- Validations using **Zod**
-- Written in **TypeScript**
+- Authentication using NextAuth.js
+- ORM using Prisma
+- Database on PlanetScale
+- UI Components built using Radix UI
+- Documentation and blog using MDX and Contentlayer
+- Subscriptions using Stripe
+- Styled using Tailwind CSS
+- Validations using Zod
+- Written in TypeScript
+
+**Results and Impact:**
 
 ## Roadmap
 
