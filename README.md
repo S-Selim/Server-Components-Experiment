@@ -49,19 +49,8 @@ A few people have asked me to turn this into a starter. I think we could do that
 
 **Results and Impact:**
 
-## Roadmap
-
-- [x] ~Add MDX support for basic pages~
-- [x] ~Build marketing pages~
-- [x] ~Subscriptions using Stripe~
-- [x] ~Responsive styles~
-- [x] ~Add OG image for blog using @vercel/og~
-- [ ] Add tests
-- [ ] Dark mode
-
-## Known Issues
-
-A list of things not working right now:
+To set up and run the project locally,
+**follow these steps:**
 
 1. ~GitHub authentication (use email)~
 2. ~[Prisma: Error: ENOENT: no such file or directory, open '/var/task/.next/server/chunks/schema.prisma'](https://github.com/prisma/prisma/issues/16117)~
