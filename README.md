@@ -5,16 +5,23 @@
 This open-source project, created by Shadcn, is one of the most exciting projects I've worked on. It explores the potential of Next.js 13 and server components in building a modern app with advanced features such as authentication, subscriptions, API routes, and static pages. By pushing the boundaries of cutting-edge technologies, this experiment serves as a valuable learning experience and demonstrates the power of these tools in creating innovative applications.
 
 > **Warning**
-> This app is a work in progress. I'm building this in public. You can follow the progress on Twitter [@shadcn](https://twitter.com/shadcn).
-> See the roadmap below.
+> This app is a work in progress.
 
-## Demo
+## Design Process:
 
-![screenshot-2](https://user-images.githubusercontent.com/124599/198038921-2b16b18b-cb4d-44b1-bd1d-6419d4a8d92c.png)
+to build on this project you need to utilized a range of tools and libraries :
 
-## About this project
-
-Right now, I'm using this project as an experiment to see how a modern app (with features like authentication, subscriptions, API routes, static pages for docs ...etc) would work in Next.js 13 and server components.
+- Next.js 13 (canary release) and
+- React 18
+- NextAuth.js for authentication
+- Prisma as an ORM
+- PlanetScale for database management
+- Radix UI for UI components
+- MDX and Contentlayer for documentation and blog content
+- Stripe for subscriptions
+- Tailwind CSS for styling
+- Zod for validations
+- TypeScript for better type safety and developer experience
 
 I'll be posting updates and issues here.
 
